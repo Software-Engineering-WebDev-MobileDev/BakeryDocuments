@@ -2,18 +2,23 @@
 ## Feature: Add new recipes
 * **User story:** As an owner, I want to be able to add new recipes to the system.
 * **Acceptance criteria:** The owner should be able to enter the recipe name, instructions, ingredients, and scaling factor.
+*  **Estimated Time: Large (4 hour)**
 ## Feature: Edit existing recipes
 * **User story:** As an owner, I want to be able to edit existing recipes.
 * **Acceptance criteria:** The owner should be able to modify the recipe name, instructions, ingredients, and scaling factor.
+*  **Estimated Time: Medium (2 hour)**
 ## Feature: Delete recipes
 * **User story:** As an owner, I want to be able to delete recipes from the system.
 * **Acceptance criteria:** The system should confirm the deletion and remove the recipe from all related data.
+*  **Estimated Time: Small (2 hour)**
 ## Feature: View recipe details
 * **User story:** As an employee, I want to view detailed information about a recipe, including ingredients, instructions, and scaling factor.
 * **Acceptance criteria:** The employee should be able to see the recipe's name, instructions, a list of ingredients with quantities, and the scaling factor.
+*  **Estimated Time: Small (1 hour)**
 ## Feature: Search for recipes
 * **User story:** As an owner or employee, I want to be able to search for recipes by name or keyword.
 * **Acceptance criteria:** The search results should be relevant and easy to navigate.
+* **Estimated Time: Small (1 hour)**
 # Epic: Ingredient Management
 ## Feature: Add new ingredients
 * **User story:** As an owner, I want to be able to add new ingredients to the system.
