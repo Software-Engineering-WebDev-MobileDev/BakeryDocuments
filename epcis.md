@@ -23,54 +23,70 @@
 ## Feature: Add new ingredients
 * **User story:** As an owner, I want to be able to add new ingredients to the system.
 * **Acceptance criteria:** The owner should be able to enter the ingredient name, quantity, and unit of measurement.
+* **Estimated Time: Large (4 hour)**
 ## Feature: Edit existing ingredients
 * **User story:** As an owner, I want to be able to edit existing ingredients.
 * **Acceptance criteria:** The owner should be able to modify the ingredient name, quantity, and unit of measurement.
+* **Estimated Time: Medium (2 hour)**
 ## Feature: Delete ingredients
 * **User story:** As an owner, I want to be able to delete ingredients from the system.
 * **Acceptance criteria:** The system should confirm the deletion and remove the ingredient from all related data.
+* **Estimated Time: Medium (2 hour)**
 ## Feature: Track ingredient inventory
 * **User story:** As an owner, I want to track the current inventory levels of ingredients.
 * **Acceptance criteria:** The system should display the quantity of each ingredient available.
+* **Estimated Time: Large (4 hour)**
 ## Feature: Receive low inventory alerts
 * **User story:** As an owner, I want to be notified when the inventory of an ingredient falls below a certain threshold.
 * **Acceptance criteria:** The system should send alerts to the owner when the inventory of an ingredient is low.
+* **Estimated Time: Large (4 hour)**
 # Epic: Task Management
 ## Feature: Create new tasks
 * **User story:** As an owner, I want to be able to create new tasks for employees.
 * **Acceptance criteria:** The owner should be able to enter the task description, assign it to an employee, and specify the shift.
+* **Estimated Time: Large (4 hour)**
 ## Feature: Assign tasks to employees
 * **User story:** As an owner, I want to be able to assign tasks to specific employees.
 * **Acceptance criteria:** The owner should be able to select an employee and assign them to a task.
+* **Estimated Time: Large (4 hour)**
 ## Feature: View task status
 * **User story:** As an owner, I want to be able to view the status of tasks assigned to employees.
 * **Acceptance criteria:** The system should display the task status (e.g., pending, in progress, completed).
+* **Estimated Time: Medium (2 hour)**
 ## Feature: Mark tasks as completed
 * **User story:** As an employee, I want to be able to mark tasks as completed.
 * **Acceptance criteria:** The employee should be able to update the task status to "completed".
+* **Estimated Time: Medium (2 hour)**
 # Epic: Employee Management
 ## Feature: Create new employee accounts
 * **User story:** As an owner, I want to be able to create new employee accounts.
 * **Acceptance criteria:** The owner should be able to enter the employee's name, username, and password.
+* **Estimated Time: Large (4 hour)**
 ## Feature: Edit existing employee accounts
 * **User story:** As an owner, I want to be able to edit existing employee accounts.
 * **Acceptance criteria:** The owner should be able to modify the employee's name, username, and password.
+* **Estimated Time: Large (4 hour)**
 ## Feature: Delete employee accounts
 * **User story:** As an owner, I want to be able to delete employee accounts.
 * **Acceptance criteria:** The system should confirm the deletion and remove the employee from all related data.
+* **Estimated Time: Medium (2 hour)**
 # Epic: Mobile App
 ## Feature: Login and authentication
 * **User story:** As a mobile app user, I want to be able to log in to the system using my credentials.
 * **Acceptance criteria:** The mobile app should verify the user's credentials and provide access to the appropriate features.
+* **Estimated Time: Large (4 hour)**
 ## Feature: View task list
 * **User story:** As a mobile app user, I want to be able to view the list of tasks assigned to me for my current shift.
 * **Acceptance criteria:** The mobile app should display the task list, including task descriptions and statuses.
+* **Estimated Time: Large (4 hour)**
 ## Feature: Claim and complete tasks
 * **User story:** As a mobile app user, I want to be able to claim and complete tasks assigned to me.
 * **Acceptance criteria:** The mobile app should allow the user to claim tasks and update their status to "completed".
+* **Estimated Time: Medium (2 hour)**
 ## Feature: View recipe details
 * **User story:** As a mobile app user, I want to be able to view detailed information about recipes, including ingredients and instructions.
 * **Acceptance criteria:** The mobile app should display the recipe's name, instructions, and a list of ingredients with quantities.
+* **Estimated Time: Medium (2 hour)**
 # Epic: Web App
 ## Feature: User login and authentication
 * **User story:** As a web app user, I want to be able to log in to the system using my credentials.
