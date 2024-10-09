@@ -95,6 +95,7 @@ The login page should display a username and password field.
 The system should validate the entered credentials against the database.
 Upon successful login, the user should be redirected to the dashboard.
 The system should handle failed login attempts with appropriate error messages.
+* **Estimated Time: Large (4 hour)**
 ## Feature: Dashboard overview
 * **User story:** As a web app user, I want to see a dashboard that provides a summary of my tasks, inventory levels, and recent activity.
 * **Acceptance criteria:**
@@ -107,6 +108,7 @@ The dashboard should be customizable to allow users to prioritize different metr
 The web app should provide a search bar to allow users to search for recipes by name or keyword.
 Search results should be displayed in a clear and concise format, including recipe name, summary, and key ingredients.
 Users should be able to click on a recipe to view its detailed instructions and ingredient list.
+* **Estimated Time: Medium (2 hour)**
 ## Feature: Task management (web-specific)
 * **User story:** As a web app user, I want to be able to view and manage tasks in a more comprehensive way, including filtering, sorting, and assigning tasks.
 * **Acceptance criteria:**
@@ -114,6 +116,7 @@ The web app should provide filters to allow users to view tasks by status, assig
 Tasks should be sortable by various criteria, such as due date, priority, or assignee.
 Users should be able to assign tasks to themselves or other employees.
 The web app should allow users to add comments to tasks and track their progress.
+ **Estimated Time: Large (4 hour)**
 ## Feature: Inventory management (web-specific)
 * **User story:** As a web app user, I want to be able to view and manage inventory levels in detail, including setting reorder points and tracking stock movements.
 * **Acceptance criteria:**
@@ -121,3 +124,4 @@ The web app should display a list of all ingredients with their current quantiti
 Users should be able to set reorder points for ingredients to trigger alerts when inventory levels fall below a certain threshold.
 The web app should track stock movements (e.g., when ingredients are used or received) to maintain accurate inventory records.
 Users should be able to view historical inventory data to identify trends and patterns.
+* **Estimated Time: Large (4 hour)**
