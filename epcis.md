@@ -136,3 +136,4 @@ The web app should display a list of all ingredients with their current quantiti
 Users should be able to set reorder points for ingredients to trigger alerts when inventory levels fall below a certain threshold.
 The web app should track stock movements (e.g., when ingredients are used or received) to maintain accurate inventory records.
 Users should be able to view historical inventory data to identify trends and patterns.
+
