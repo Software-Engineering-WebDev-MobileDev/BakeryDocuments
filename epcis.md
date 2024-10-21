@@ -1,4 +1,4 @@
-* # Epic: Recipe Management
+# Epic: Recipe Management
 ## Feature: Add new recipes
 * **User story:** As an owner, I want to be able to add new recipes to the system.
 * **Acceptance criteria:** The owner should be able to enter the recipe name, instructions, ingredients, and scaling factor.
