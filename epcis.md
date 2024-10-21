@@ -1,4 +1,4 @@
-# Epic: Recipe Management
+* # Epic: Recipe Management
 ## Feature: Add new recipes
 * **User story:** As an owner, I want to be able to add new recipes to the system.
 * **Acceptance criteria:** The owner should be able to enter the recipe name, instructions, ingredients, and scaling factor.
@@ -125,3 +125,15 @@ Users should be able to set reorder points for ingredients to trigger alerts whe
 The web app should track stock movements (e.g., when ingredients are used or received) to maintain accurate inventory records.
 Users should be able to view historical inventory data to identify trends and patterns.
 * **Estimated Time: Large (4 hour)**
+The web app should provide filters to allow users to view tasks by status, assignee, or due date.
+Tasks should be sortable by various criteria, such as due date, priority, or assignee.
+Users should be able to assign tasks to themselves or other employees.
+The web app should allow users to add comments to tasks and track their progress.
+## Feature: Inventory management (web-specific)
+* **User story:** As a web app user, I want to be able to view and manage inventory levels in detail, including setting reorder points and tracking stock movements.
+* **Acceptance criteria:**
+The web app should display a list of all ingredients with their current quantities and units of measurement.
+Users should be able to set reorder points for ingredients to trigger alerts when inventory levels fall below a certain threshold.
+The web app should track stock movements (e.g., when ingredients are used or received) to maintain accurate inventory records.
+Users should be able to view historical inventory data to identify trends and patterns.
+
